@@ -1,0 +1,5 @@
+
+> socket-chat-example@0.0.1 start /root/socket-example
+> node index.js
+
+Socket.IO server running at http://localhost:3000/
